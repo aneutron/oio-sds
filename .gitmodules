@@ -1,0 +1,5 @@
+[submodule "vendor/curl"]
+	path = vendor/curl
+	url = https://github.com/curl/curl.git
+	branch = master
+	shallow = true
